@@ -1,0 +1,14 @@
+a) Valores exibidos:
+10
+10
+20
+21
+
+b) Aponta para a segunda posicao (indice 1) do vetor.
+
+c) Conteudo completo do vetor: {10, 21, 30, 40}
+
+d) Diferencas:
+- p++ : Avanca o endereco do ponteiro para a proxima posicao de memoria.
+- *p++ : Acessa o valor apontado por p e depois avanca o ponteiro para o proximo endereco.
+- (*p)++ : Acessa o valor apontado por p e incrementa o valor numerico armazenado naquela memoria.

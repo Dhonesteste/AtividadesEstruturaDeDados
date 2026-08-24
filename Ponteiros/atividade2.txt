@@ -1,0 +1,8 @@
+a) Valores exibidos:
+x = 30
+*p = 30
+*q = 30
+
+b) Por que p armazena o endereco de x, e q recebe o valor de p (q = p). Assim, x, *p e *q apontam para a mesma regiao de memoria. Qualquer alteracao via *p ou *q modifica diretamente x.
+
+c) Sim, pois a atribuicao q = p fez q copiar o endereco armazenado em p.
